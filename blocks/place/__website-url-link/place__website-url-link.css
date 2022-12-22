@@ -1,0 +1,18 @@
+.place__website-url-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px; 
+
+    color: #FFFFFF;
+    
+    margin: 0 auto;
+    text-align: start;
+    min-width: 288px;
+    transition: opacity 0.4s ease;
+}
+
+.place__website-url-link:hover {
+    opacity: 0.8;
+}
