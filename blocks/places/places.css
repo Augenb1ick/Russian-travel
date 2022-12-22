@@ -4,3 +4,17 @@
     margin-top: 64px;
     gap: 50px;
 }
+
+@media screen and (min-width: 768px) {
+    .places {
+        gap: 73px;
+    }
+    
+}
+
+@media screen and (min-width: 1024px) {
+    .places {
+        gap: 80px;
+    }
+    
+}
