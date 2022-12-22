@@ -1,7 +1,7 @@
 .place__paragraphs {
     display: flex;
     flex-direction: column;
-    gap: 25px
+    gap: 25px;
 }
 
 @media screen and (min-width: 768px) {
