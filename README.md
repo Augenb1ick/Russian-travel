@@ -1,16 +1,13 @@
-# Проект: Путешествие по России
+# Учебный проект: Russian-travel
 
-### Обзор
-Реализован проект о путешествии по России.
+## О проекте/функционал
+Реализован проект о путешествии по России. Адаптивная верстка, CSS Grid Layout, дерективы @media, кроссбраузерность.
 
-### Технологии
-- CSS Grid Layout;
-- Адаптивная верстка;
-- Дерективы @media.
+## Технологии
+- HTML;
+- CSS;
+- BEM;
+- Figma.
 
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**GitHub Pages**
-* [Ссылка на проект в GitHub Pages](https://augenb1ick.github.io/russian-travel/)
+**Surge**
+* [Ссылка на проект на Surge](https://rus-travel.surge.sh/)
